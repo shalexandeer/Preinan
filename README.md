@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="http://preinan.xxuz.com/images/preinannotblack.svg" width="400" alt="Preinan Logo"></a></p>
 
-![Uploading fotopreinan.jpg…]()
+<img src="./fotopreinan.jpg" width="400" alt="Preinan Logo">
 
 # Preinan
 

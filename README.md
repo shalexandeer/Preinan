@@ -1,5 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="http://preinan.xxuz.com/images/preinannotblack.svg" width="400" alt="Preinan Logo"></a></p>
 
+![Uploading fotopreinan.jpg…]()
+
 # Preinan
 
 Preinan is a website that offers a vacation destination search platform, particularly focused on the beautiful region of Wonosobo. This website is designed to promote local tourism and support micro, small, and medium-sized enterprises (UMKM) in Wonosobo. Preinan features highly convenient options for users to purchase entrance tickets to the desired tourist spots.
